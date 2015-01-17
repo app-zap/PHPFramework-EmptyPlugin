@@ -2,7 +2,7 @@
 
 This package is a plugin for [PHPFramework](https://github.com/app-zap/PHPFramework).
 
-It does nothing. It's purpose it to demonstrate how a plugin can register itself and interact with
+It does nothing. It's purpose is to demonstrate how a plugin can register itself and interact with
 the PHPFramework.
 
 ## Installation
