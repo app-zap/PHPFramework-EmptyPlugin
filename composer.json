@@ -1,0 +1,12 @@
+{
+  "name": "app-zap/phpframework-emptyplugin",
+  "require": {
+    "app-zap/phpframework": "dev-develop",
+  },
+  "autoload": {
+    "files": ["classes/PluginLoader.php"],
+    "psr-4": {
+      "AppZap\\PHPFrameworkEmptyPlugin\\": "classes/"
+    }
+  }
+}
